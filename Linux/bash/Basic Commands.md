@@ -25,3 +25,7 @@ $USER=elflord
 This is the equivalent of common output commands in most programming language.
 
 `echo "greetings"`
+
+### Read input
+
+`read a`
