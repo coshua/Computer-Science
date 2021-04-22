@@ -17,6 +17,8 @@ else
   do this by default
 fi
 ```
+Note that *then* is required after *if* and *elif* but not after *else*.
+It must be seperated from the conditional line by either a newline or a *;*, which represents a newline to bash.
 
 There must be a space between the brackets and their contents.
 `if [[ $a -lt $b ]]`
